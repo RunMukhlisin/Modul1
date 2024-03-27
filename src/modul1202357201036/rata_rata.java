@@ -8,7 +8,7 @@ public class rata_rata {
         };
         
         int total = 0;
-        int rata;
+        double rata;
        
             for (int a = 0; a < data.length; a++) {
                 for (int b = 0; b < data[a].length; b++) {
